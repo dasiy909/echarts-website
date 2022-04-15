@@ -86,7 +86,7 @@
 
       {"source": "2000-2010年", "target": "湖北", "value": 3},
       {"source": "2000-2010年", "target": "山东", "value":7},
-      {"source": "2000-2010年", "target": "河南", "value":18},
+      {"source": "2000-2010年", "target": "河南", "value":17},
       {"source": "2000-2010年", "target": "陕西", "value": 10},
       {"source": "2000-2010年", "target": "浙江", "value": 9},
       {"source": "2000-2010年", "target": "河北", "value": 4},
@@ -169,7 +169,7 @@
 
 
       {"source": "河南", "target": "旧石器时代", "value": 6},
-      {"source": "河南", "target": "新石器时代", "value": 10}, 
+      {"source": "河南", "target": "新石器时代", "value": 9}, 
       {"source": "河南", "target": "周代", "value":5}, 
       {"source": "河南", "target": "春秋战国", "value":4},
       {"source": "河南", "target": "汉晋", "value": 7},
