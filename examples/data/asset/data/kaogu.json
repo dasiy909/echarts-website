@@ -18,7 +18,6 @@
       {"name": "内蒙古"},
       {"name": "湖南"},
       {"name": "江苏"},
-      {"name": "陕西"},
       {"name": "安徽"},
       {"name": "云南"},
       {"name": "贵州"},
@@ -33,6 +32,7 @@
       {"name": "福建"},
       {"name": "广东"},
       {"name": "上海"},
+      {"name": "山西"},
       {"name": "海南"},
       {"name": "旧石器时代"},
       {"name": "新石器时代"},
@@ -229,8 +229,8 @@
       
       
       {"source": "黑龙江", "target": "旧石器时代", "value":1},
-      {"source": "陕西", "target": "隋唐", "value": 2},
-      {"source": "陕西", "target": "金代", "value":1 }, 
+      {"source": "黑龙江", "target": "隋唐", "value": 2},
+      {"source": "黑龙江", "target": "金代", "value":1 }, 
 
       
    
@@ -259,7 +259,7 @@
 
             
       {"source": "贵州", "target": "旧石器时代", "value":3},
-      {"source": "贵州", "target": "明代", "value":1}, 
+      {"source": "贵州", "target": "明清", "value":1}, 
       {"source": "贵州", "target": "隋唐", "value":1},
       {"source": "贵州", "target": "春秋战国", "value":1},
       {"source": "贵州", "target": "商代", "value":1},
@@ -326,6 +326,31 @@
       {"source": "重庆", "target": "其他及不详", "value":1},
 
   
+      {"source": "宁夏", "target": "周代", "value":1},
+
+
+      {"source": "西藏", "target": "旧石器时代", "value":1},
+
+
+      {"source": "江苏", "target": "旧石器时代", "value":1},
+      {"source": "江苏", "target": "新石器时代", "value":9}, 
+      {"source": "江苏", "target": "汉晋", "value":5},
+      {"source": "江苏", "target": "周代", "value":2},
+      {"source": "江苏", "target": "春秋战国", "value":2},
+      {"source": "江苏", "target": "隋唐", "value":2},
+      {"source": "江苏", "target": "宋朝", "value":2},
+      {"source": "江苏", "target": "其他及不详", "value":1},
+
+
+
+      {"source": "安徽", "target": "新石器时代", "value":2}, 
+      {"source": "安徽", "target": "春秋战国", "value":2},
+      {"source": "安徽", "target": "汉晋", "value":2},
+      {"source": "安徽", "target": "隋唐", "value":1},
+
+
+      {"source": "广西", "target": "新石器时代", "value":1},
+
       {"source": "新疆", "target": "旧石器时代", "value":1},
       {"source": "新疆", "target": "新石器时代", "value":4}, 
       {"source": "新疆", "target": "汉晋", "value":3},
