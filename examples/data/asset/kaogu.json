@@ -259,7 +259,7 @@
 
             
       {"source": "贵州", "target": "旧石器时代", "value":3},
-      {"source": "贵州", "target": "明代", "value":1}, 
+      {"source": "贵州", "target": "明清", "value":1}, 
       {"source": "贵州", "target": "隋唐", "value":1},
       {"source": "贵州", "target": "春秋战国", "value":1},
       {"source": "贵州", "target": "商代", "value":1},
@@ -268,7 +268,7 @@
       {"source": "辽宁", "target": "新石器时代", "value":2}, 
       {"source": "辽宁", "target": "夏代", "value":1},
       {"source": "辽宁", "target": "春秋战国", "value":1},
-      {"source": "辽宁", "target": "清代", "value":2},
+      {"source": "辽宁", "target": "明清", "value":2},
       {"source": "辽宁", "target": "秦代", "value":1},
       {"source": "辽宁", "target": "元代", "value":1},
       {"source": "辽宁", "target": "其他及不详", "value":2},
@@ -278,9 +278,8 @@
       {"source": "四川", "target": "新石器时代", "value":3}, 
       {"source": "四川", "target": "周代", "value":1}, 
       {"source": "四川", "target": "春秋战国", "value":1},
-      {"source": "四川", "target": "清代", "value":1},
+      {"source": "四川", "target": "明清", "value":3},
       {"source": "四川", "target": "宋朝", "value":2},
-      {"source": "四川", "target": "明代", "value":2},
       {"source": "四川", "target": "隋唐", "value":1},
       
       
@@ -296,7 +295,7 @@
       {"source": "广东", "target": "汉晋", "value":2},
       {"source": "广东", "target": "秦代", "value":1},
       {"source": "广东", "target": "宋朝", "value":1},
-      {"source": "广东", "target": "明代", "value":1}, 
+      {"source": "广东", "target": "明清", "value":1}, 
       {"source": "广东", "target": "其他及不详", "value":1},
 
       {"source": "上海", "target": "元代", "value":1}, 
