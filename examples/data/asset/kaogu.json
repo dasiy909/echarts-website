@@ -148,7 +148,7 @@
 
 
       {"source": "山东", "target": "旧石器时代", "value":1},
-      {"source": "山东", "target": "新石器时代", "value":3},
+      {"source": "山东", "target": "新石器时代", "value":4},
       {"source": "山东", "target": "商代", "value":2},
       {"source": "山东", "target": "周代", "value": 3},
       {"source": "山东", "target": "春秋战国", "value": 2},
@@ -259,7 +259,7 @@
 
             
       {"source": "贵州", "target": "旧石器时代", "value":3},
-      {"source": "贵州", "target": "明清", "value":1}, 
+      {"source": "贵州", "target": "明代", "value":1}, 
       {"source": "贵州", "target": "隋唐", "value":1},
       {"source": "贵州", "target": "春秋战国", "value":1},
       {"source": "贵州", "target": "商代", "value":1},
